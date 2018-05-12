@@ -1,0 +1,38 @@
+_repo: A-viagem-da--ndia--poemeto-em-dois-cantos_24245
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Costa, Fernandes
+    aliases:
+    - Costa, José Fernandes
+    - Costa, Jose Fernandes
+    - Fernandes Costa, José
+    birthdate: 1848
+    deathdate: 1920
+    gutenberg_agent_id: '26344'
+    url: http://www.gutenberg.org/2009/agents/26344
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2008-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24245'
+language: pt
+language_note:
+- This ebook uses a beginning of the 20th century spelling
+- This ebook uses a 19th century spelling
+production_note: Produced by Rita Farinha and the Online Distributed Proofreading
+  Team at http://www.pgdp.net (This file was produced from images generously made
+  available by National Library of Portugal (Biblioteca Nacional de Portugal).)
+publication_note: "Lisboa:\r\nImprensa Nacional\r\n1896"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: 'A viagem da Índia: poemeto em dois cantos'
+url: http://www.gutenberg.org/ebooks/24245
