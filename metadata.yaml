@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '26344'
     url: http://www.gutenberg.org/2009/agents/26344
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24245#A-viagem-da--ndia--poemeto-em-dois-cantos
 gutenberg_bookshelf: PT Poesia
 gutenberg_issued: '2008-01-11'
 gutenberg_type: Text
